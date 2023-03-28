@@ -1,1 +1,2 @@
-# signal_and_system_labs
+# Feruz Ubaydullaev
+# 12204578
