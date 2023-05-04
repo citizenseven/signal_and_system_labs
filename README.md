@@ -14,9 +14,13 @@
 
 
 ## Week 2
-[![Exercise 2.1][2_1]]
+![Exercise 2.1][2_1]
+
+
+![Exercise 2.2][2_2]
 
 ## Week 3
+![Exercise 3.2][3_2]
 
 ## Week 4
 
@@ -27,3 +31,5 @@
 
 
 [2_1]: img/2_1.png
+[2_2]: img/2_2.png
+[3_2]: img/3_2.png
