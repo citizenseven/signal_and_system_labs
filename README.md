@@ -11,3 +11,19 @@
     <li><a href="#week7">Week 7</a></li>
   </ul>
 </details>
+
+
+## Week 2
+[![Exercise 2.1][2_1]]
+
+## Week 3
+
+## Week 4
+
+## Week 6
+
+## Week 7
+
+
+
+[2_1]: img/2_1.png
