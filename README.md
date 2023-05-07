@@ -24,7 +24,7 @@
 
 ## Week 2
 ![Exercise 2.1][2_1]
-<p>><a href="week%202/week2_1.m"> Solution <a/></p>
+<p>><a href="week 2/week2_1.m"> Solution <a/></p>
 
 ![Exercise 2.2][2_2]
 <p>><a href="week%202/week2_2.m"> Solution <a/></p>
