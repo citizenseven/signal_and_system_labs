@@ -24,10 +24,10 @@
 
 ## Week 2
 ![Exercise 2.1][2_1]
-<a href="week%202/week2_1.m"> Solution <a/>
+<p>><a href="week%202/week2_1.m"> Solution <a/></p>
 
 ![Exercise 2.2][2_2]
-<p><a href="week%202/week2_2.m"> Solution <a/></p>
+<p>><a href="week%202/week2_2.m"> Solution <a/></p>
 
 ## Week 3
 ![Exercise 3.1][3_1]
