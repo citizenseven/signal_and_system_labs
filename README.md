@@ -12,11 +12,11 @@
   <details>
     <summary>Table of Contents</summary>
     <ul>
-      <li><a href="#week2">Week 2</a></li>
-      <li><a href="#week3">Week 3</a></li>
-      <li><a href="#week4">Week 4</a></li>
-      <li><a href="#week6">Week 6</a></li>
-      <li><a href="#week7">Week 7</a></li>
+      <li><a href="#week-2">Week 2</a></li>
+      <li><a href="#week-3">Week 3</a></li>
+      <li><a href="#week-4">Week 4</a></li>
+      <li><a href="#week-6">Week 6</a></li>
+      <li><a href="#week-7">Week 7</a></li>
     </ul>
   </details>
  </div>
@@ -24,9 +24,10 @@
 
 ## Week 2
 ![Exercise 2.1][2_1]
-
+<a href="week%202/week2_1.m"> Solution <a/>
 
 ![Exercise 2.2][2_2]
+<p><a href="week%202/week2_2.m"> Solution <a/></p>
 
 ## Week 3
 ![Exercise 3.1][3_1]
