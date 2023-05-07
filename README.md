@@ -27,34 +27,60 @@
 <p>><a href="week 2/week2_1.m"> Solution <a/></p>
 
 ![Exercise 2.2][2_2]
-<p>><a href="week%202/week2_2.m"> Solution <a/></p>
+<p>><a href="week 2/week2_2.m"> Solution <a/></p>
 
 ## Week 3
 ![Exercise 3.1][3_1]
+<p>><a href="week 3/week3_1.m"> Solution <a/></p>
+
 ![Exercise 3.2][3_2]
+<p>><a href="week 3/week3_2.m"> Solution <a/></p>
 
 ## Week 4
 ![Exercise 4.1][4_1]
+<p>><a href="week 4/week4_1.m"> Solution <a/></p>
+
 ![Exercise 4.2][4_2]
+<p>><a href="week 4/week4_2.m"> Solution <a/></p>
+
 ![Exercise 4.3][4_3]
+<p>><a href="week 4/week4_3.m"> Solution <a/></p>
+
 ![Exercise 4.4][4_4]
+<p>><a href="week 4/week4_4.m"> Solution <a/></p>
+
 ![Exercise 4.5][4_5]
+<p>><a href="week 4/week4_5.m"> Solution <a/></p>
+
 ![Exercise 4.6][4_6]
+<p>><a href="week 4/week4_6.m"> Solution <a/></p>
 
 ## Week 6
 ![Exercise 6.1][6_1]
+<p>><a href="week 6/week6_1.m"> Solution <a/></p>
+
 ![Exercise 6.2][6_2]
+<p>><a href="week 6/week6_2.m"> Solution <a/></p>
+
 ![Exercise 6.3][6_3]
+<p>><a href="week 6/week6_3_1.m"> Solution 1 <a/></p>
+<p>><a href="week 6/week6_3_2.m"> Solution 2 <a/></p>
+
 ![Exercise 6.4][6_4]
+<p>><a href="week 6/week6_4.m"> Solution <a/></p>
+
 ![Exercise 6.5][6_5]
+<p>><a href="week 6/week6_5.m"> Solution <a/></p>
 
 ## Week 7
 ![Exercise 7.1][7_1]
-![Exercise 7.1][7_2]
+<p>><a href="week 7/week7_1.m"> Solution <a/></p>
+
+![Exercise 7.2][7_2]
+<p>><a href="week 7/week7_2.m"> Solution <a/></p>
 
 
-
-
+<!-- MARKDOWN IMAGES -->
 [2_1]: img/2_1.png
 [2_2]: img/2_2.png
 [3_1]: img/3_1.png
@@ -71,4 +97,4 @@
 [6_4]: img/6_4.png
 [6_5]: img/6_5.png
 [7_1]: img/7_1.png
-[7_1]: img/7_1.png
+[7_2]: img/7_2.png
